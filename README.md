@@ -17,6 +17,5 @@ __Please don't bother if you don't understand those Chinese below, It's just a t
 __不要担心，如果你不知道上边的英文是什么内容的话——上边英文中你所唯一需要了解的内容已经在下边写明了。__
 
 ## 如何安装此汉化
-从Releases那里下载最新的汉化文件
-你可以将此文件从桌面版或网页版中发送给其他人，然后在手机的聊天记录里找到这个文件下载，按三个点并点击「Apply localization file」即可。
+你可以将「Localizable.strings」文件从桌面版或网页版中发送给其他人，然后在手机的聊天记录里找到这个文件下载，按三个点并点击「Apply localization file」即可。
 没错这个过程很麻烦，官方表示会在后续的版本中简化这个过程。
