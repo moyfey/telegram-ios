@@ -1,10 +1,11 @@
-# Telegram-Android
+# telegram-ios
 
-This repo contains unofficial Telegram-Android Chinese translation.  
+This repo contains unofficial Telegram-iOS Chinese translation.  
 
 ## What is in it and what should I do
 
-This is a OmegaT project tree. You can download the ready-to-use translation in `release` tab
+`Localizable-source.strings` : contains original English L10n.  
+`Localizable.strings` : Where you should contribute to.
 
 ## How can I install the translations? 
 
